@@ -242,8 +242,8 @@ The major mode of current buffer must be 'csde-mode'."
 ;;; Change History:
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:55  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:03:55  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.1  2001/02/25 05:36:05  paulk
 ;; Initial XEmacs version.
@@ -257,8 +257,8 @@ The major mode of current buffer must be 'csde-mode'."
 
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:55  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:03:55  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.1  2001/02/25 05:36:05  paulk
 ;; Initial XEmacs version.

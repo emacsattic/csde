@@ -609,8 +609,8 @@ expand button causes the widget to display the values of the array."
 (provide 'csde-widgets)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:04:09  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:04:09  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.3  2001/02/17 07:38:21  paulk
 ;; Requires cl to enable batch compile.

@@ -548,8 +548,8 @@ BNF source.")
 (provide 'csde-csharp-grammar)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:43  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:02:43  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.2  2001/02/22 12:45:16  youngs
 ;; Fix problem with building CSDE and xslt-process

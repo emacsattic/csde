@@ -2590,8 +2590,8 @@ pane of the CSDEBug's three-pane window configuration."
 (provide 'csde-bug)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:29  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:02:29  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.2  2001/02/12 05:38:22  paulk
 ;; CSDE 2.2.7

@@ -220,8 +220,8 @@ t."
 (provide 'beanshell);
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:06  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:02:06  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.4  2001/02/25 04:45:07  paulk
 ;; Fixed bug in handling CLASSPATH environment variable.

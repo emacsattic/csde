@@ -463,8 +463,8 @@ This function uses the semantic bovinator to index the buffer."
 (provide 'csde-imenu)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:43  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:03:43  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.1  2001/02/12 05:40:58  paulk
 ;; Initial XEmacs version.

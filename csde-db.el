@@ -1168,8 +1168,8 @@ file in the current buffer."
 
 ;; Change History
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:07  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:03:07  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.3  2001/02/12 05:38:24  paulk
 ;; CSDE 2.2.7

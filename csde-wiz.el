@@ -341,8 +341,8 @@ handling of those methods via attribute B."
 (provide 'csde-wiz)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:04:11  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:04:11  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.3  2001/02/12 05:38:26  paulk
 ;; CSDE 2.2.7

@@ -1600,8 +1600,8 @@ Unless optional argument INPLACE is non-nil, return a new string."
 
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:04:20  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:04:20  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.5  2001/02/25 05:10:13  paulk
 ;; Update for CSDE 2.2.7beta3

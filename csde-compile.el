@@ -470,8 +470,8 @@ history enabled."
 
 ;; Change History
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:32  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:02:32  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.4  2001/02/20 05:29:19  paulk
 ;; CSDE 2.27 updates

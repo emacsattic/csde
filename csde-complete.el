@@ -811,8 +811,8 @@ command that lets you cycle throught the potential completions at point."
 (provide 'csde-complete)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:36  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:02:36  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.2  2001/02/12 05:38:24  paulk
 ;; CSDE 2.2.7

@@ -522,8 +522,8 @@ the generated documentation in a browser."
 
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:44  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:02:44  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.1  2001/02/12 05:50:15  paulk
 ;; Initial XEmacs revision.

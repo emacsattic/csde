@@ -1625,8 +1625,8 @@ and then space. Note that abbrev mode must be enabled. See
 (provide 'csde-gen)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:38  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:03:38  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.3  2001/02/25 04:46:48  paulk
 ;; Class buffer templates now prompt for package.

@@ -47,8 +47,8 @@
 ;;; History:
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:50  flannelboy
-;; Initial revision
+;; Revision 1.1.1.1  2001/11/27 03:03:50  flannelboy
+;; initial check in of csde csharp mode
 ;;
 ;; Revision 1.1  2001/02/12 05:42:50  paulk
 ;; Initial XEmacs revision.
