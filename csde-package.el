@@ -1,7 +1,7 @@
 ;; @(#) jpack.el -- Csharp package statement generator
 ;; @(#) $Id$
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 
 ;; Copyright (C) 2001 by Matt Bruce
 ;; Maintainer:  Matt Bruce
@@ -87,7 +87,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 
 ;;; Code:
@@ -242,8 +242,8 @@ The major mode of current buffer must be 'csde-mode'."
 ;;; Change History:
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:55  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.1  2001/02/25 05:36:05  paulk
 ;; Initial XEmacs version.
@@ -257,8 +257,8 @@ The major mode of current buffer must be 'csde-mode'."
 
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:55  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.1  2001/02/25 05:36:05  paulk
 ;; Initial XEmacs version.

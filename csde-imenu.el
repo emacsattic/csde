@@ -1,7 +1,7 @@
 ;;; csde-imenu.el --- imenu setup for the CSDE
 ;; $Revision$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; Copyright (C) 2001 by Matt Bruce
@@ -33,7 +33,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 ;;; Commentary:
 
@@ -463,8 +463,8 @@ This function uses the semantic bovinator to index the buffer."
 (provide 'csde-imenu)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:43  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.1  2001/02/12 05:40:58  paulk
 ;; Initial XEmacs version.

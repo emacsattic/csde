@@ -1,7 +1,7 @@
 ;; csde-run.el --- runs the Csharp app in the current buffer.
 ;; $Revision$ $Date$
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; Copyright (C) 2001 by Matt Bruce
@@ -35,7 +35,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 (defcustom csde-run-mode-hook nil
   "*List of hook functions run by `csde-run-mode' (see `run-hooks')."
@@ -845,8 +845,8 @@ file."
 
 ;; Change History
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:04:05  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.3  2001/02/12 05:38:26  paulk
 ;; CSDE 2.2.7

@@ -1,7 +1,7 @@
 ;;; csde-gen.el -- Integrated Development Environment for Csharp.
 ;; $Revision$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; Copyright (C) 2001 by Matt Bruce
@@ -33,7 +33,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 (require 'tempo)
 
@@ -1625,8 +1625,8 @@ and then space. Note that abbrev mode must be enabled. See
 (provide 'csde-gen)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:38  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.3  2001/02/25 04:46:48  paulk
 ;; Class buffer templates now prompt for package.

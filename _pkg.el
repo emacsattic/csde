@@ -1,4 +1,4 @@
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; JDE Author: Paul Kinnucan <paulk@mathworks.com>
@@ -35,7 +35,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 ;;;###autoload
 (package-provide 'csde
 		 :version 1.27

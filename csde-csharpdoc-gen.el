@@ -1,7 +1,7 @@
 ;;; csde-csharpdoc-gen.el -- Csharpdoc builder
 ;; $Revision$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; JDE Author: Sergey A Klibanov <sakliban@cs.wustl.edu>
@@ -37,7 +37,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 ;;; Commentary:
 
@@ -522,8 +522,8 @@ the generated documentation in a browser."
 
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:44  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.1  2001/02/12 05:50:15  paulk
 ;; Initial XEmacs revision.

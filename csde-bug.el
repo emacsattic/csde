@@ -1,7 +1,7 @@
 ;;; csde-bug.el -- CSDEbug Interface
 ;; $Revision$ $Date$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; JDE Author: Paul Kinnucan <paulk@mathworks.com>
@@ -34,7 +34,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 ;;; Code:
 
@@ -2590,8 +2590,8 @@ pane of the CSDEBug's three-pane window configuration."
 (provide 'csde-bug)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:29  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:06  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.2  2001/02/12 05:38:22  paulk
 ;; CSDE 2.2.7

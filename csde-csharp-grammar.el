@@ -1,7 +1,7 @@
 ;;; csde-csharp-grammar.el
 ;; $Revision$
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; JDE Author: Paul Kinnucan <paulk@mathworks.com>
@@ -32,7 +32,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 
 (require 'semantic)
@@ -548,8 +548,8 @@ BNF source.")
 (provide 'csde-csharp-grammar)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:43  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.2  2001/02/22 12:45:16  youngs
 ;; Fix problem with building CSDE and xslt-process

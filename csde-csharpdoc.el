@@ -1,7 +1,7 @@
 ;;; csde-csharpdoc.el --- CSDE csharpdoc autodoc
 ;; $Revision$
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; Copyright (C) 2001 by Matt Bruce
@@ -36,7 +36,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 ;;; Commentary:
 ;;
@@ -1876,8 +1876,8 @@ definition."
 
 ;;
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:56  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.2  2001/02/12 05:38:25  paulk
 ;; CSDE 2.2.7

@@ -1,7 +1,7 @@
 ;;; csde-complete.el -- Smart completion for the CSDE
 ;; $Revision$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; JDE Author: Rodrigo Reyes <reyes@chez.com>
@@ -75,7 +75,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 
 (defvar csde-complete-current-list nil
@@ -811,8 +811,8 @@ command that lets you cycle throught the potential completions at point."
 (provide 'csde-complete)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:36  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.2  2001/02/12 05:38:24  paulk
 ;; CSDE 2.2.7

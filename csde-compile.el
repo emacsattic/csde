@@ -1,7 +1,7 @@
 ;;; csde-compile.el -- Integrated Development Environment for Csharp.
 ;; $Revision$ $Date$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; JDE Author: Paul Kinnucan <paulk@mathworks.com>
@@ -34,7 +34,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 ;;; Code:
 
@@ -470,8 +470,8 @@ history enabled."
 
 ;; Change History
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:02:32  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.4  2001/02/20 05:29:19  paulk
 ;; CSDE 2.27 updates

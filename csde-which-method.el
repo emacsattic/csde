@@ -1,6 +1,6 @@
 ;;; csde-which-method.el --- Print current method in mode line
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 
 ;; Copyright (C) 2001 by Matt Bruce
 ;; Maintainer:  Matt Bruce
@@ -35,7 +35,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 ;; This package displays the name of the method at point
 ;; in the Emacs mode line. 
@@ -43,8 +43,8 @@
 ;;; History:
 
 ;;  $Log$
-;;  Revision 1.1  2001/11/27 03:04:08  flannelboy
-;;  Initial revision
+;;  Revision 1.2  2001/11/27 03:24:07  flannelboy
+;;  Changed to a more accurate after hours email address
 ;;
 ;;  Revision 1.1  2001/02/12 05:57:51  paulk
 ;;  Initial XEmacs revision.

@@ -1,7 +1,7 @@
 ;;; csde-make.el -- Integrated Development Environment for Csharp.
 ;; $Revision$ 
 
-;; Adapted from the JDE by Matt Bruce <matt.bruce@morganstanley.com>
+;; Adapted from the JDE by Matt Bruce <mattsbruce@hotmail.com>
 ;; Maintainer:  Matt Bruce
 
 ;; Copyright (C) 2001 by Matt Bruce
@@ -31,7 +31,7 @@
 ;; <URL:http://www.sourceforge.com/>.
 
 ;; Please send any comments, bugs, or upgrade requests to
-;; Matt Bruce (matt.bruce@morganstanley.com)
+;; Matt Bruce (mattsbruce@hotmail.com)
 
 (require 'compile)
 
@@ -132,8 +132,8 @@ list of arguments entered in the minibuffer."
 (provide 'csde-make)
 
 ;; $Log$
-;; Revision 1.1  2001/11/27 03:03:50  flannelboy
-;; Initial revision
+;; Revision 1.2  2001/11/27 03:24:07  flannelboy
+;; Changed to a more accurate after hours email address
 ;;
 ;; Revision 1.2  2001/02/12 05:38:26  paulk
 ;; CSDE 2.2.7
